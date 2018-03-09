@@ -52,33 +52,31 @@
 ## Implementation Time-line
 
 #### Phase 1
-- **Front-end Boilerplate v1**
+- **Front-end Boilerplate v1** [ 6hr ]
 	- Pricing Engine Code
 	- pricing_spreadsheet.xlsx
 	- sheets.js ( a.k.a. xlsx.js )
 	- xlsx-calc.js
-- **Omega Server v1**
-	- Node: Queue + Log	
-	- PHP: PDF Generator
+- **Omega Server v1** [ 6hr ]
+	- Node: Queue + Log [ 5hr ]
+	- PHP: PDF Generator [ 3hr ]
 - **Form Validation v1**
-	- True Caller API
-	- ZOHO CRM API
+	- True Caller API [ 5hr ]
+	- ZOHO CRM API [ 2hr ]
 - **Endpoint Server v1**
-	- PHP eMailer
-	- ZOHO CRM
+	- PHP eMailer [ 2hr ]
+	- ZOHO CRM [ 4hr ]
 
 #### Phase 2
 - **Front-end Boilerplate v2**
 	- Pricing Engine Code
 - **AWS Lambda v1**
-	- pricing_spreadsheet.xlsx
-	- sheets.js ( a.k.a. xlsx.js )
+	- pricing_spreadsheet.xlsx [ 3hr ]
+	- sheets.js ( a.k.a. xlsx.js ) + xlsx-calc.js [ 5hr ]
 - **Omega Server v2**
-	- Log Monitor
-	- xlsx-calc.js (Version Control File Manager)
-	- PDF File (File Manager)
+	- Log Monitor [ 3hr ]
+	- pricing_spreadsheet.xlsx (Version Control File Manager) [ 4hr ]
+	- PDF File (File Manager) [ 2hr ]
 - **Endpoints v2**
-	- ZOHO Campaigns
-	- SMS
-
-
+	- ZOHO Campaigns [ 4hr ]
+	- SMS [ 6hr ]
