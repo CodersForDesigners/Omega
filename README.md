@@ -57,7 +57,7 @@
 	- pricing_spreadsheet.xlsx
 	- sheets.js ( a.k.a. xlsx.js )
 	- xlsx-calc.js
-- **Omega Server v1** [ 6hr ]
+- **Omega Server v1**
 	- Node: Queue + Log [ 5hr ]
 	- PHP: PDF Generator [ 3hr ]
 - **Form Validation v1**
