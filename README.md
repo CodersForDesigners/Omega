@@ -9,3 +9,18 @@
 [Omega-Server v0.9-alpha](https://github.com/TeamLazaro/Omega-Server)
 
 [Omega-ExternalServices v0.9-alpha](https://github.com/TeamLazaro/Omega-ExternalServices)
+
+
+
+# Ω – Omega Framework – Phase 2 (Beta)
+
+## Standardized iFrame Pricing Engine Front-end
+## Nightly Dynamic Unit Pricing – Manual Spreadsheet / Machine Learning
+## Weekly Deals
+## Saas License, User Management and Configuration file per Account  
+## GUI for Log file and Links to created PDFs
+## GUI for Timestamped and Backed up Spreadsheet files
+## Phone Number Formating : TrueCaller style Country selector.
+## OTP SMS Verification
+## Journey of a Lead – CRM Resource Leveling
+## Predictive Lead behaviors – Machine Learning
